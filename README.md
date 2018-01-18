@@ -52,7 +52,7 @@ The following details are scraped for and individual product:
   }
 ```
 
-# Dependancies
+## Dependancies
 The following packages need to be installed to use this scraper:
 - BeautifulSoup
 - pprint
@@ -64,7 +64,7 @@ You can install the dependancies using pip:
 
 ```pip install BeautifulSoup pprint requests datetime numpy```
 
-# Run
+## Run
 Run the script by executing the following:
 
 ```python scrape.py laptop```
